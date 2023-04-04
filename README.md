@@ -1,4 +1,4 @@
-# PPP Manajemen Mikrotik API Mikrotik
+# PPP Manajemen API Mikrotik
 
 ## Cara Pakai
 ```
