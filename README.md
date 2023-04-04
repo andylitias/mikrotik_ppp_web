@@ -3,8 +3,8 @@
 ## Cara Pakai
 ```
 adminku.php untuk menambah, edit, hapus host data API mikrotik
-[![image.png](https://i.postimg.cc/v8J3Lf38/image.png)](https://postimg.cc/4n16XKDj)
 ```
+[![image.png](https://i.postimg.cc/v8J3Lf38/image.png)](https://postimg.cc/4n16XKDj)
 ## Available features
 ```
 Add PPP user
