@@ -1,5 +1,9 @@
 # PPP Manajemen Mikrotik API Mikrotik
 
+## Cara Pakai
+```
+adminku.php untuk menambah, edit, hapus host data API mikrotik
+```
 ## Available features
 ```
 Add PPP user
